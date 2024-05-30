@@ -1,0 +1,22 @@
+Brandon Boone - Slay the Princess (Original Game Soundtrack)
+Concept Art
+lib
+renpy
+Slay the Princess Live Orchestral (Lossless)
+SlaythePrincess.app
+Soundtrack (Lossless)
+wallpapers
+screenshot*.png
+SlaythePrincess.*
+game/audio
+game/saves
+game/cache
+game/staging
+game/archive.rpa
+game/images/_sprites
+game/gui/fonts/AmaticSC-Bold.ttf
+game/gui/fonts/AmaticSC-Regular.ttf
+game/gui/fonts/EastSeaDokdo-Regular.ttf
+game/gui/fonts/KelmscottRomanNF.ttf
+*.rpyc
+log.txt
