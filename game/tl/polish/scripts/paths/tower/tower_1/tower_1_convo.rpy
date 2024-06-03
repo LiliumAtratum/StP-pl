@@ -58,7 +58,7 @@ translate polish tower_1_convo_start_01600923:
 translate polish tower_1_convo_start_c06a4bb4:
 
     # hero "Well that gives away the game, doesn't it?\n"
-    hero "Cóż, to psuje całą niespodziankę, nie?\n"
+    hero ""Nie kryje swoich planów, nieprawdaż?\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:29
 translate polish tower_1_convo_start_fcca04b7:
@@ -98,7 +98,7 @@ translate polish tower_1_convo_start_fdf0b2a8:
     # voice "audio/voices/ch2/tower/_cont/narrator/3.flac"
     # n "It does. But why did she say 'the last time we met'? That's not right. That can't be right.\n"
     voice "audio/voices/ch2/tower/_cont/narrator/3.flac"
-    n "To prawda. Ale dlaczego powiedziała 'gdy spotkaliśmy się ostatnio'? To nie tak powinno być. To nie może być prawda.\n"
+    n "Zdecydowanie. Ale dlaczego powiedziała 'gdy spotkaliśmy się ostatnio'? To nie tak powinno być. To nie może być prawda.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:40
 translate polish tower_1_convo_start_fea349fe:
@@ -146,7 +146,7 @@ translate polish tower_1_convo_start_e16be838:
     # voice "audio/voices/ch2/tower/_cont/narrator/6a.flac"
     # n "The stakes of the situation should be perfectly clear to everyone now. And if you're going to save the world, you need to have faith that you can pull this off. You can't win a battle that you've already lost in your mind.\n"
     voice "audio/voices/ch2/tower/_cont/narrator/6a.flac"
-    n "Powaga tej sytuacji powinna być teraz dla wszystkich jasna. A jeśli zamierzacie uratować świat, musicie uwierzyć że jesteście w stanie to zrobić. Nie możecie wygrać walki którą przegraliście już we własnym umyśle.\n"
+    n "Powaga tej sytuacji powinna być teraz dla wszystkich jasna. A jeśli zamierzacie uratować świat, musicie uwierzyć, że jesteście w stanie to zrobić. Nie możecie wygrać walki, którą przegraliście już we własnym umyśle..\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:58
 translate polish tower_1_convo_start_2ece3628:
@@ -158,7 +158,7 @@ translate polish tower_1_convo_start_2ece3628:
 translate polish tower_1_convo_start_93210d20:
 
     # p "The last time we met, you tried to kill me. And here you are again, trying to succeed where you've already catastrophically failed.\n"
-    p "Gdy spotkaliśmy się ostatnio, próbowałeś mnie zabić. A jednak znów tu jesteś i próbujesz zwyciężyć po poniesieniu sromotnej porażki.\n"
+    p "Gdy spotkaliśmy się ostatnio, próbowałeś mnie zabić. A jednak znów tu jesteś, próbując zwyciężyć tam, gdzie już sromotnie przegrałeś.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:63
 translate polish tower_1_convo_start_296bddc8:
@@ -170,7 +170,7 @@ translate polish tower_1_convo_start_296bddc8:
 translate polish tower_1_convo_start_3035202f:
 
     # p "The last time we met, you couldn't even scratch me. And yet here you are again, trying to succeed where you've already catastrophically failed.\n"
-    p "Gdy spotkaliśmy się ostatnio, nie mogłeś mnie nawet drasnąć. A jednak znów tu jesteś i próbujesz zwyciężyć po poniesieniu sromotnej porażki.\n"
+    p "Gdy spotkaliśmy się ostatnio, nie mogłeś mnie nawet drasnąć. A jednak znów tu jesteś, próbując zwyciężyć tam, gdzie już sromotnie przegrałeś.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:68
 translate polish tower_1_convo_start_a2d02fa3:
@@ -352,7 +352,7 @@ translate polish tower_1_motive_shared_join_bcb07889:
 translate polish tower_1_motive_shared_join_ed5c0a33:
 
     # p "The collapse of the old is a necessary prelude to the birth of the new, and the world as it is now is overdue for alterations.\n"
-    p "Upadek dawnego musi stanowić preludium do narodzin czegoś nowego. W obecnym świecie już dawno powinny zostać wprowadzone poprawki.\n"
+    p "Upadek dawnego to konieczny wstęp do narodzin nowego. W obecnym świecie już dawno powinny zostać wprowadzone poprawki.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:147
 translate polish tower_1_motive_shared_join_fa25f572:
@@ -554,7 +554,7 @@ translate polish tower_1_join_me_menu_9f965282:
 translate polish tower_1_join_me_menu_5438837c:
 
     # sp "The destruction and genesis that's to follow in my wake is deserving of a song that can echo for eternity.\n"
-    sp "Zniszczenie i nowy początek które spowoduję zasługują na pieśń która może rzobrzmiewać echem na wieki.\n"
+    sp "Zniszczenie i nowy początek które spowoduję zasługują na pieśń która może rozbrzmiewać echem na wieki.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:242
 translate polish tower_1_join_me_menu_22e659a5:
@@ -960,7 +960,7 @@ translate polish tower_1_battle_motive_join_178c4771:
 translate polish tower_1_battle_motive_join_1f067605:
 
     # n "You reach forward and grasp the blade.\n"
-    n "Wyciągasz rękę i zaciskasz ją na ostrzu.\n"
+    n "Wyciągasz rękę i zaciskasz ją na rękojęści.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:439
 translate polish tower_1_battle_motive_join_86534c85:
@@ -1116,7 +1116,7 @@ translate polish tower_1_battle_motive_join_8e8d9bc4:
     # voice "audio/voices/ch2/tower/_cont/narrator/28.flac"
     # n "No, you can't just slay yourself. You're perfectly healthy and capable and all you have to do is ignore her and do what has to be done!\n"
     voice "audio/voices/ch2/tower/_cont/narrator/28.flac"
-    n "Nie, nie możecie się po prostu zgładzić. Jesteście kompletnie zdrowi i sprawni, musicie jedynie ją zignorować i zrobić co trzeba!\n"
+    n "Nie, nie możecie się po prostu zgładzić. Jesteście zupełnie zdrowi i sprawni, musicie jedynie ją zignorować i zrobić co trzeba!\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:508
 translate polish tower_1_battle_motive_join_eebef8f5:
@@ -1428,7 +1428,7 @@ translate polish tower_advance_1_94b3d4d6:
     # voice "audio/voices/ch2/tower/_cont/narrator/36.flac"
     # n "You, 'heroic' one! What are you doing? Don't just let this happen. Stop him from killing you!\n"
     voice "audio/voices/ch2/tower/_cont/narrator/36.flac"
-    n "Ej, ty, 'heroiczny'! Co ty wyrabiasz? Nie pozwól na to. Powstrzymaj go przed zabiciem was!\n"
+    n "Ej, ty, 'bohaterski'! Co ty wyrabiasz? Nie pozwól na to. Powstrzymaj go przed zabiciem was!\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:688
 translate polish tower_advance_1_09d38b63:
@@ -1744,7 +1744,7 @@ translate polish tower_final_choice_b0504fba:
 translate polish tower_final_choice_c424f063:
 
     # p "The collapse of the old is a necessary prelude to the birth of the new. and the world as it is now is overdue for alterations.\n"
-    p "Upadek dawnego musi stanowić preludium do narodzin czegoś nowego. W obecnym świecie już dawno powinny zostać wprowadzone poprawki.\n"
+    p "Upadek dawnego to konieczny wstęp do narodzin nowego. W obecnym świecie już dawno powinny zostać wprowadzone poprawki.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:866
 translate polish tower_final_choice_05dfc322:
@@ -2340,7 +2340,7 @@ translate polish strings:
 
     # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:208
     old "{i}• (Explore) ''If you're so powerful, can't you just break the chains yourself?''{/i}"
-    new "{i}• (Zbadaj) ''Skoro jesteś taka potężna, nie możesz po prostu sama zniszczyć łańcuchów?''{/i}"
+    new "{i}• (Zbadaj) ''Skoro jesteś taka potężna, nie możesz po prostu sama zerwać łańcuchów?''{/i}"
 
     # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:208
     old "{i}• (Explore) ''Just because you're supposed to end the world doesn't mean you actually have to do it. You can be whatever you want to be.''{/i}"
@@ -2424,7 +2424,7 @@ translate polish strings:
 
     # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:1137
     old "{i}• [[Break her chains.]{/i}"
-    new "{i}• [[Zniszcz jej łańcuchy.]{/i}"
+    new "{i}• [[Zerwij jej łańcuchy.]{/i}"
 
     # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:1200
     old "{i}• (Explore) ''What happens now?''{/i}"
