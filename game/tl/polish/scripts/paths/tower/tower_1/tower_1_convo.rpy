@@ -58,7 +58,7 @@ translate polish tower_1_convo_start_01600923:
 translate polish tower_1_convo_start_c06a4bb4:
 
     # hero "Well that gives away the game, doesn't it?\n"
-    hero ""Nie kryje swoich planów, nieprawdaż?\n"
+    hero "Nie kryje swoich planów, nieprawdaż?\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:29
 translate polish tower_1_convo_start_fcca04b7:
