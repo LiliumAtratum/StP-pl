@@ -6,7 +6,7 @@ translate polish tower_1_start_38fbd5e1:
     # voice "audio/voices/ch1/woods/narrator/script_n_1.flac"
     # n "You're on a path in the woods. And at the end of that path is a cabin. And in the basement of that cabin is a Princess.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_1.flac"
-    n "Stoisz na leśnej ścieżce. Na końcu ścieżki stoi chata. A w piwnicy tej chaty znajduje się Księżniczka.\n"
+    n "Jesteś na leśnej ścieżce. Na końcu ścieżki stoi chata. A w piwnicy tej chaty znajduje się Księżniczka.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_start.rpy:25
 translate polish tower_1_start_f7d7f625:
