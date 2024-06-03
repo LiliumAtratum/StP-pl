@@ -34,7 +34,7 @@ translate polish tower_1_convo_start_bcb07889:
 translate polish tower_1_convo_start_ed5c0a33:
 
     # p "The collapse of the old is a necessary prelude to the birth of the new, and the world as it is now is overdue for alterations.\n"
-    p "Upadek dawnego musi stanowić preludium do narodzin czegoś nowego. W obecnym świecie już dawno powinny zostać wprowadzone poprawki.\n"
+    p "Upadek dawnego to konieczny wstęp do narodzin nowego. W obecnym świecie już dawno powinny zostać wprowadzone poprawki.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:21
 translate polish tower_1_convo_start_dbe670fb:
@@ -408,7 +408,7 @@ translate polish tower_1_motive_shared_join_adbd758b:
 translate polish tower_1_motive_shared_join_9fd0cec0:
 
     # p "Hmm. You're less broken than I'd thought.\n"
-    p "Hmm. Nie jesteś aż tak załamany jak zakładałam.\n"
+    p "Hmm. Nie jesteś aż tak złamany jak zakładałam.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:177
 translate polish tower_1_motive_shared_join_81c0dce3:
@@ -494,7 +494,7 @@ translate polish tower_1_join_me_menu_22bb340b:
 translate polish tower_1_join_me_menu_116631d8:
 
     # p "All you have to do is break these chains and set me free.\n"
-    p "Musisz jedynie zniszczyć te łańcuchy i uwolnić mnie.\n"
+    p "Musisz jedynie zerwać te łańcuchy i uwolnić mnie.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:224
 translate polish tower_1_join_me_menu_df484d91:
@@ -862,7 +862,7 @@ translate polish tower_1_empty_refuse_join_67b72c78:
 translate polish tower_1_empty_refuse_join_1d3e8d82:
 
     # p "All you need do now is break my chains.\n"
-    p "Teraz musisz jedynie zniszczyć moje łańcuchy.\n"
+    p "Teraz musisz jedynie zerwać moje łańcuchy.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:395
 translate polish tower_1_battle_motive_join_dc986eb4:
@@ -2184,7 +2184,7 @@ translate polish tower_pledge_late_join_2c838cd5:
 translate polish tower_pledge_late_join_8b116c59:
 
     # sp "Break my chains.\n"
-    sp "Zniszcz moje łańcuchy.\n"
+    sp "Zerwij moje łańcuchy.\n"
 
 # game/scripts/paths/tower/tower_1/tower_1_convo.rpy:1121
 translate polish tower_pledge_late_join_1bd8cd70:
